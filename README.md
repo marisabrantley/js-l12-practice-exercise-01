@@ -20,4 +20,4 @@ View the Random User Generator here: https://marisabrantley.github.io/random-use
 ## Class
 *Skillcrush, Break into Tech Blueprint*
 
-JavaScript Fundamentals
+JavaScript Fundamentals, Intro to API's
